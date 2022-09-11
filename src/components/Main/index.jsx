@@ -1,10 +1,9 @@
 import React from "react";
-import { Me } from "src/components/Icons/me";
 
 const Main = () => {
   return (
     <div>
-      <Me />
+      <img src="src/components/Icons/Me.jpg" alt="Me" />
     </div>
   );
 };
